@@ -28,6 +28,12 @@ public class OrderingACar {
    // Changes after pulling from master
 	
 	//CHANGES 4:43
+<<<<<<< HEAD
+=======
+	// I add new changes and commiting
+	// it happened at 5:32
+
+>>>>>>> 8509b6a21a050a6c13269236a857084bc01bbdfa
 	
 	
 	@Test
