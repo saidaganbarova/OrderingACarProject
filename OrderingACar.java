@@ -48,6 +48,7 @@ public class OrderingACar {
 		String expectedTitle = "Toyota - Lexus Privacy Hub";
 
 		String currentWindow = driver.getWindowHandle();
+		//staus
 
 		for (String handle : driver.getWindowHandles()) {
 
