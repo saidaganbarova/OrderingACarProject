@@ -18,9 +18,7 @@ import org.testng.annotations.Test;
 
 public class OrderingACar {
 	
-	//I am doingvery very good
-	//What about you?
-	//Are you doing fine aswell?
+	// I do not need these chsnges
 	@Test
 
 	public void carProject() throws InterruptedException {
