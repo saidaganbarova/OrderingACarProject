@@ -21,15 +21,7 @@ public class OrderingACar {
 
 
 
-	//Testing again in master
-
-    //7:50
- // I am done with this
-
-	// This is last
-	//8:45 you are still here
-	
-	// Goog morning Saida 
+	//I think it is enough 
 	
 	@Test
 
