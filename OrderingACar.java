@@ -25,8 +25,13 @@ public class OrderingACar {
 	//I think it is enough 
 
      //I am in master 8:58
+<<<<<<< HEAD
 
 	//I am tired
+=======
+	//I am master tired 
+	
+>>>>>>> 0914e3ac4d01d20ccf7e39952e9cf78e18a1542b
 	@Test
 
 	public void carProject() throws InterruptedException {
