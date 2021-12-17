@@ -19,10 +19,25 @@ import org.testng.annotations.Test;
 public class OrderingACar {
 	
 
-    
 
 
-timeouts().implicitlyWait(15, TimeUnit.SECONDS);
+	//Testing again in master
+
+    //7:50
+
+
+	
+	
+	@Test
+
+	public void carProject() throws InterruptedException {
+
+		System.setProperty("webdriver.chrome.driver",
+				"/Users/anarganbarov/Documents/SeleniumFiles/BrowserDriver/chromedriver3");
+
+		WebDriver driver = new ChromeDriver();
+
+		driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
 
 		JavascriptExecutor js;
 
