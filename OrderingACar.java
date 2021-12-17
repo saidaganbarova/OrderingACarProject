@@ -18,27 +18,11 @@ import org.testng.annotations.Test;
 
 public class OrderingACar {
 	
-<<<<<<< HEAD
+
     
-// New Change
-=======
-     //Testing again in master
 
-      //5:45
->>>>>>> 1199dc35cf921a5a6ea55b1eb683d9a3c15d8253
 
-	
-	
-	@Test
-
-	public void carProject() throws InterruptedException {
-
-		System.setProperty("webdriver.chrome.driver",
-				"/Users/anarganbarov/Documents/SeleniumFiles/BrowserDriver/chromedriver3");
-
-		WebDriver driver = new ChromeDriver();
-
-		driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
+timeouts().implicitlyWait(15, TimeUnit.SECONDS);
 
 		JavascriptExecutor js;
 
